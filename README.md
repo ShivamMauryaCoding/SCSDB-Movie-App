@@ -1,12 +1,34 @@
-# React + Vite
+🎬 SCSDB Movie App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive React-based movie app where users can discover **Trending Movies** using **TMDB API**. The app supports sorting by **day** and **week** trends, providing users with the latest and most popular movie data in real-time.
 
-Currently, two official plugins are available:
+> ⚠️ **Note:** The TMDB API used in this project requires a **VPN** to work in some regions. Please use a VPN if the movies are not loading for you.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+🔗 Live Demo & Video
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📺 **Watch the Demo Video**: [Click Here](https://drive.google.com/file/d/1iazENg_4-7m4rB9TrmpAxp2AfhS53Uzg/view?usp=drive_link)  
+
+
+---
+
+🛠️ Features
+
+- 🔥 Fetches **Trending Movies** using TMDB API
+- 🗓️ Sort by **Day** or **Week** trends
+- 🎨 Fully responsive design for all screen sizes
+- ⚛️ Built with **React Functional Components**
+- 🔁 Uses **Axios** to make API calls
+- 🚀 Smooth UI and fast rendering
+
+---
+
+🧪 Tech Stack
+
+- **React** (Frontend Library)
+- **Axios** (API calls)
+- **TMDB API** (Movie data)
+- **React Router DOM** (Routing)
+- **CSS / Tailwind CSS** (Styling - specify what you used)
+
