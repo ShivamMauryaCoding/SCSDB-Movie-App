@@ -8,7 +8,8 @@ A modern and responsive React-based movie app where users can discover **Trendin
 
 🔗 Live Demo & Video
 
-📺 **Watch the Demo Video**: [Click Here](https://drive.google.com/file/d/1iazENg_4-7m4rB9TrmpAxp2AfhS53Uzg/view?usp=drive_link)  
+🌍 **Live Website** *(VPN Required)*: [Visit Site](https://scsdb-movie-app-two.vercel.app/)
+📺 **Watch the Demo Video**: [Click Here](https://drive.google.com/file/d/1ua6eZHoz2Lwv1LHNNllajpMzGaM0w5L3/view?usp=drive_link)  
 
 
 ---
