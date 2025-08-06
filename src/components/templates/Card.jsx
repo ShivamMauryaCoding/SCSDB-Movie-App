@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import noimage from "/noimage.png";
 
 function Card({ data, title }) {
   return (
@@ -12,9 +13,13 @@ function Card({ data, title }) {
         >
           <img
             className="h-[40vh] shadow-[8px_17px_38px_2px_rgba(0,0,0,.5)]"
-            src={`https://image.tmdb.org/t/p/original/${
+            src={
               c.poster_path || c.backdrop_path || c.profile_path
-            }`}
+                ? `https://image.tmdb.org/t/p/original/${
+                    c.poster_path || c.backdrop_path || c.profile_path
+                  }`
+                : noimage
+            }
             alt=""
           />
           <h1 className="mt-3 text-2xl font-semibold text-zinc-400">
